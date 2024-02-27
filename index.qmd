@@ -13,10 +13,6 @@ title: "Chenyiteng Han"
 -   **Phone:** 647-866-8518
 -   **Email:** chenyiteng.han\@mail.utoronto.ca
 
-This is a Quarto website.
+## Resume
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+-   [Here is my resume](cv/CV-Han-Chenyiteng.pdf)
