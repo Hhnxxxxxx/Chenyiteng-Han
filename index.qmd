@@ -15,4 +15,4 @@ title: "Chenyiteng Han"
 
 ## Resume
 
--   [Here is my resume](cv/CV-Han-Chenyiteng.pdf)
+-   [Here is my resume](https://github.com/Hhnxxxxxx/Chenyiteng-Han/blob/13ae0ab2e1da75c5093288d0275f6aa853a360ea/CV-%20Han%20Chenyiteng.pdf)
