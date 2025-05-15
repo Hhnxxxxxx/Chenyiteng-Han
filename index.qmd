@@ -4,7 +4,7 @@ title: "Chenyiteng Han"
 
 ## Educational Background
 
--   **University:** University of Toronto St. George Campus...
+-   **University:** University of Toronto St. George Campus
 -   **Program:** Mathematics Specialist Program Faculty of Arts and Science
 -   **Duration:** Sept. 2020 – May 2024
 
@@ -15,4 +15,4 @@ title: "Chenyiteng Han"
 
 ## Resume
 
--   [Here is my resume](CV- Han Chenyiteng 250514.pdf)
+-   [Here is my resume](CV- Han Chenyiteng.pdf)
