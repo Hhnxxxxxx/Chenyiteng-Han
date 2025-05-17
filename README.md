@@ -8,7 +8,7 @@ This repository contains the source code and rendered pages for my personal acad
 
 - `index.qmd` – Main homepage content (education, contact, etc.)
 - `about.qmd` – About page (optional extension)
-- `CV- Han Chenyiteng.pdf` – My latest resume
+- `CV- Han Chenyiteng YYMMDD.pdf` – My latest resume with date
 - `_quarto.yml` – Quarto configuration file (site title, navigation, etc.)
 - `docs/` – Auto-generated HTML output for deployment
 
